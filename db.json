@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "name": "tom",
+      "phone": "32425252543",
+      "email": "tom@email.com",
+      "education": "本科",
+      "graduationschool": "gsdfgdfgd",
+      "id": 1
+    },
+    {
+      "name": "amily",
+      "phone": "534553242",
+      "email": "emily@email.com",
+      "id": 2
+    },
+    {
+      "name": "james",
+      "phone": "42342434",
+      "email": "james@email.com",
+      "id": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple id good!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft id good!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google id good!"
+    }
+  ]
+}
