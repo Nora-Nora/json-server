@@ -34,3 +34,6 @@ http://localhost:3000/users?age_gte=20&age_lte=25
 
 //搜索用户信息
 http://localhost:3000/users?q=tom
+
+//运行命令行
+npm run json-server
